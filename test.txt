@@ -2,3 +2,5 @@ on new-branch
 diff 1 
 diff 2 
 diff 3
+>>>>>>> dev
+>>>>>>> dev
