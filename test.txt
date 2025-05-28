@@ -1,3 +1,2 @@
 on new-branch
-diff 1 
 diff 2 
